@@ -11,3 +11,5 @@ public class Sample1Application {
 	}
 
 }
+
+// remote change : conflict with the local
